@@ -135,3 +135,9 @@ data/processed/
 *.csv
 *.xml
 *.xlsx
+
+plan.md
+REAL_API_SETUP.md
+package-lock.json
+CLEANUP_SUMMARY.md
+DEDUPLICATION_SUMMARY.md
